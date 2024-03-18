@@ -5,7 +5,7 @@ Fomentando o Aprendizado Contínuo em Sistemas Conversacionais
 # Introdução
 O avanço rápido da tecnologia e a constante evolução das necessidades dos usuários exigem que os sistemas conversacionais sejam capazes de se adaptar continuamente. No entanto, muitas vezes os modelos desses sistemas não são atualizados com a frequência necessária, levando a um problema conhecido como concept drift. O concept drift refere-se à mudança gradual nas relações entre **entradas e saídas em um sistema devido a alterações no ambiente, o que pode levar a uma degradação no desempenho do modelo ao **longo do tempo.
 
-Solução Proposta -Diagrama de Blocos
+# Solução Proposta -Diagrama de Blocos
 
 Descrição Textual
 Coleta de Dados Atualizados:
@@ -27,5 +27,5 @@ Feedback do Usuário:
 
 Recebe feedbacks dos usuários sobre a experiência de interação com o sistema e os utiliza para ajustar o modelo e melhorar a qualidade das respostas.
 
-Conclusão
+# Conclusão
 A implementação de um sistema de aprendizado contínuo em sistemas conversacionais é crucial para garantir que esses sistemas permaneçam eficazes e relevantes ao longo do tempo. Embora isso exija um esforço significativo em termos de coleta de dados, treinamento incremental de modelos e avaliação contínua de desempenho, os benefícios em termos de capacidade de adaptação e qualidade do serviço oferecido aos usuários fazem desse investimento uma necessidade.
