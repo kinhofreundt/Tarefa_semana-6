@@ -29,4 +29,4 @@ Feedback do Usuário:
 Recebe feedbacks dos usuários sobre a experiência de interação com o sistema e os utiliza para ajustar o modelo e melhorar a qualidade das respostas.
 
 Conclusão
-A implementação de um sistema de aprendizado contínuo em sistemas conversacionais é crucial para garantir que esses sistemas **permaneçam eficazes e relevantes ao longo do tempo. Embora isso exija um esforço significativo em termos de coleta de dados, **treinamento incremental de modelos e avaliação contínua de desempenho, os benefícios em termos de capacidade de adaptação e **qualidade do serviço oferecido aos usuários fazem desse investimento uma necessidade.
+A implementação de um sistema de aprendizado contínuo em sistemas conversacionais é crucial para garantir que esses sistemas permaneçam eficazes e relevantes ao longo do tempo. Embora isso exija um esforço significativo em termos de coleta de dados, treinamento incremental de modelos e avaliação contínua de desempenho, os benefícios em termos de capacidade de adaptação e qualidade do serviço oferecido aos usuários fazem desse investimento uma necessidade.
